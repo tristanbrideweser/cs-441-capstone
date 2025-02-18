@@ -3,7 +3,8 @@
 
 ## Team Members 
 - Tristan Brideweser
-- 
+- Emily Sam 
+
 ## Project Description
 
 ## Methodology
